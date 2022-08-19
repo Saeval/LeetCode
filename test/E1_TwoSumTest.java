@@ -43,7 +43,7 @@ public class E1_TwoSumTest {
     }
 
     @Test
-    void notAdjustacentIndexes() {
+    void notAdjacentIndexes() {
         int[] nums = new int[]{2, 3, 4};
         int target = 6;
 
